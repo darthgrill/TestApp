@@ -19,5 +19,5 @@
         <author href="http://yoursite.com" email="you@youremail.com">
         Your Name
         </author>
-
+	<gap:plugin name="com.phonegap.plugins.barcodescanner" />
     </widget>
